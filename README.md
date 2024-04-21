@@ -14,9 +14,9 @@ I'm a passionate Computer Science graduate with a strong interest in Data Scienc
 Here are some of the projects I've worked on:
 
 - [Project 1: Data Analysis of Sales Trends](): Analyzed sales data to identify trends and patterns, leading to actionable insights for the sales team.
-- [Project 2: Customer Churn Prediction]: Developed a machine learning model to predict customer churn, helping the company retain valuable customers.
-- [Project 3: Sentiment Analysis of Social Media Data]: Conducted sentiment analysis on social media data to understand customer perceptions and sentiment towards the brand.
-- [project 4: Machine learning and Deep learning models]: Conducted predictions , analysis , distributions and data visualization on various datas that related to medical science, weather forecast , pricing and cost and so on 
+- [Project 2: Sentiment Analysis of Social Media Data](): Conducted sentiment analysis on social media data to understand customer perceptions and sentiment towards the brand.
+- [project 3: Machine learning and Deep learning models](): Conducted predictions , analysis , distributions and data visualization on various datas that related to medical science, weather forecast , pricing and cost and so on
+- [Project 4: Customer Churn Prediction](): Developed a machine learning model to predict customer churn, helping the company retain valuable customers.
 
 ## Get in Touch
 
