@@ -4,7 +4,7 @@ I'm a passionate Computer Science graduate with a strong interest in Data Scienc
 
 ## About Me
 
-- 🎓 Graduated in Computer Science with an outstanding 85% grade.
+- 🎓 Graduated in Computer Science with an outstanding 85% grade score.
 - 💼 Actively seeking opportunities in Data Science, particularly in Dubai.
 - 📊 Love diving into data, whether it's for analysis, cleaning, or visualization.
 - 🔍 Always exploring new technologies and methodologies in the field of Data Science.
