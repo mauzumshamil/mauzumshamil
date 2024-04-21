@@ -7,6 +7,7 @@ About Me
 💼 Actively seeking opportunities in Data Science, particularly in Dubai.
 📊 Love diving into data, whether it's for analysis, cleaning, or visualization.
 🔍 Always exploring new technologies and methodologies in the field of Data Science.
+
 My Projects
 Here are some of the projects I've worked on:
 
