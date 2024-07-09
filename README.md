@@ -22,6 +22,7 @@ Here are some of the projects I've worked on:
 
 🌐 Connect with me on [LinkedIn](http://linkedin.com/in/mauzum-shamil-3a8475286)  
 📧 Email me at mauzumanu@gmail.com
+🔗 portfolio: https://linktr.ee/mauzum_shamil
 
 Let's collaborate and create impactful solutions together!
 
