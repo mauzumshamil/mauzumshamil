@@ -1,6 +1,6 @@
 # Hi there, I'm Mauzum Shamil! 👋
 
-I'm a passionate Computer Science graduate with a strong interest in Data Science. Currently pursuing an internship in Data Science, I thrive on exploring and analyzing data to derive meaningful insights. My GitHub repository is a collection of projects and works reflecting my enthusiasm and expertise in both Data Science and Computer Science domains.
+I'm currently pursuing my Master's in Data Science, with a strong passion for exploring data to uncover valuable insights. As an enthusiast in both Data Science and Computer Science, my GitHub repository showcases a range of projects that reflect my expertise and dedication to these fields. My internship experience further fuels my drive to analyze data and solve real-world problems through data-driven solutions.
 
 ## About Me
 
