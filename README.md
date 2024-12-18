@@ -14,7 +14,7 @@ I'm currently pursuing my Master's in Data Science, with a strong passion for ex
 Here are some of the projects I've worked on:
 
 - [Project 1: Data Analysis of Sales Trends](https://github.com/mauzumshamil/200-DATASCIENCE-PROJECTS): Analyzed sales data to identify trends and patterns, leading to actionable insights for the sales team.
-- [Project 2: Sentiment Analysis of Social Media Data](): Conducted sentiment analysis on social media data to understand customer perceptions and sentiment towards the brand.
+- [Project 2: Sentiment Analysis of Social Media Data](https://github.com/mauzumshamil/SENTIMENT-ANALYSIS-LSTM-AND-RNN-PROJECTS): Conducted sentiment analysis on social media data to understand customer perceptions and sentiment towards the brand.
 - [project 3: SQL Retail Sales Analysis project](https://github.com/mauzumshamil/SQL_Retail_Sales_Analysis_project): project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries
 - [project 4: Machine learning and Deep learning models](https://github.com/mauzumshamil/MACHINE-LEARNING-PROJECTS): Conducted predictions , analysis , distributions and data visualization on various datas that related to medical science, weather forecast , pricing and cost and so on
 - [Project 5: Customer Churn Prediction](https://github.com/mauzumshamil/MACHINE-LEARNING-PROJECTS): Developed a machine learning model to predict customer churn, helping the company retain valuable customers.
