@@ -13,7 +13,7 @@ I'm currently pursuing my Master's in Data Science, with a strong passion for ex
 
 Here are some of the projects I've worked on:
 
-- [project 1: SQL Library System Management Advanced](https://github.com/mauzumshamil/SQL-Library-System-Management-Project):This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries.
+- [Project 1: SQL Library System Management Advanced](https://github.com/mauzumshamil/SQL-Library-System-Management-Project):This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries.
 - [Project 2: Data Analysis of Sales Trends](https://github.com/mauzumshamil/200-DATASCIENCE-PROJECTS): Analyzed sales data to identify trends and patterns, leading to actionable insights for the sales team.
 - [Project 3: Sentiment Analysis of Social Media Data](https://github.com/mauzumshamil/SENTIMENT-ANALYSIS-LSTM-AND-RNN-PROJECTS): Conducted sentiment analysis on social media data to understand customer perceptions and sentiment towards the brand.
 - [project 4: SQL Retail Sales Analysis project](https://github.com/mauzumshamil/SQL_Retail_Sales_Analysis_project): project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries
