@@ -1,11 +1,12 @@
 # Hi there, I'm Mauzum Shamil! 👋
 
-I'm currently pursuing my Master's in Data Science, with a strong passion for exploring data to uncover valuable insights. As an enthusiast in both Data Science and Computer Science, my GitHub repository showcases a range of projects that reflect my expertise and dedication to these fields. My recent experience further fuels my drive to analyze data and solve real-world problems through data-driven solutions.
+I am a data enthusiast with a strong passion for uncovering valuable insights through data analysis. With expertise in both Data Science and Computer Science, my GitHub repository showcases a range of projects that reflect my dedication to solving real-world problems through data-driven solutions. My recent experiences have further fueled my drive to explore data and create impactful results.
 
 ## About Me
 
-- 🎓 Graduated in Computer Science specializing in Artificial intelligence with an outstanding 85% grade score.
-- 💼 Actively seeking opportunities in Data Science, particularly in Dubai.
+- 🎓 Masters in Science- MS, Data Science
+- 🎓 Graduated Bachelor's in Computer Science specializing in Artificial intelligence with an outstanding 85% grade score.
+- 💼 Actively seeking opportunities in Data Science, particularly in UAE.
 - 📊 Love diving into data, whether it's for analysis, cleaning, or visualization.
 - 🔍 Always exploring new technologies and methodologies in the field of Data Science.
 
