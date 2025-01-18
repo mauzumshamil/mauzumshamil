@@ -15,10 +15,10 @@ I am a data enthusiast with a strong passion for uncovering valuable insights th
 Here are some of the projects I've worked on:
 
 - [Project 1: SQL Library System Management Advanced](https://github.com/mauzumshamil/SQL-Library-System-Management-Project):This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries.
-- [Project 2: Data Analysis of Sales Trends](https://github.com/mauzumshamil/200-DATASCIENCE-PROJECTS): Analyzed sales data to identify trends and patterns, leading to actionable insights for the sales team.
+- [project 2: Machine learning and Deep learning models](https://github.com/mauzumshamil/MACHINE-LEARNING-PROJECTS): Conducted predictions , analysis , distributions and data visualization on various datas that related to medical science, weather forecast , pricing and cost and so 
 - [Project 3: Sentiment Analysis of Social Media Data](https://github.com/mauzumshamil/SENTIMENT-ANALYSIS-LSTM-AND-RNN-PROJECTS): Conducted sentiment analysis on social media data to understand customer perceptions and sentiment towards the brand.
 - [project 4: SQL Retail Sales Analysis project](https://github.com/mauzumshamil/SQL_Retail_Sales_Analysis_project): project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries
-- [project 5: Machine learning and Deep learning models](https://github.com/mauzumshamil/MACHINE-LEARNING-PROJECTS): Conducted predictions , analysis , distributions and data visualization on various datas that related to medical science, weather forecast , pricing and cost and so on
+- [Project 5: Data Analysis of Sales Trends](https://github.com/mauzumshamil/200-DATASCIENCE-PROJECTS): Analyzed sales data to identify trends and patterns, leading to actionable insights for the sales team.
 - [Project 6: Customer Churn Prediction](https://github.com/mauzumshamil/MACHINE-LEARNING-PROJECTS): Developed a machine learning model to predict customer churn, helping the company retain valuable customers.
   
 ## Get in Touch
