@@ -1,6 +1,6 @@
 # Hi there, I'm Mauzum Shamil! 👋
 
-I am a data enthusiast with a strong passion for uncovering valuable insights through data analysis. With expertise in both Data Science and Computer Science, my GitHub repository showcases a range of projects that reflect my dedication to solving real-world problems through data-driven solutions. My recent experiences have further fueled my drive to explore data and create impactful results.
+I am a data/AI enthusiast with a strong passion for uncovering valuable insights through data analysis. With expertise in both Data Science and Computer Science, my GitHub repository showcases a range of projects that reflect my dedication to solving real-world problems through data-driven solutions. My recent experiences have further fueled my drive to explore data and create impactful results.
 
 ## About Me
 
